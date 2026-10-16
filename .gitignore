@@ -1,0 +1,24 @@
+﻿# Visual Studio
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Build output
+**/bin/
+**/obj/
+
+# Temporary files
+*.cache
+*.pdb
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Operating system files
+.DS_Store
+Thumbs.db
